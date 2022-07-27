@@ -1,25 +1,31 @@
 ### Hi everybody 👋
 
-My name is **Daniel** and I'm 23 years old 🧑
+My name is **Daniel**🧑
 
-I'm currently working in [KAVAK](kavak.com) like a Web developer 🖥️
+I'm a Web Developer, mainly Frontend and learning about backend 🖥️
 
-I like it learn Python to in a future work with AI in machin learning
+I'm currently working on [KAVAK](kavak.com)
+
+I'm learning Python to be able of work with AI in machine learning 
 
 I like a lot of stuffs: 
 * videogames, more about action
 * Computers (so general)
 * Linux environment (actually use Manjaro)
+* Learn to use Neovim, it's complicated but rewarding
 
 ## Skills
 
-|   Technology    |   Level   |
-|   ----------    |   -----   |
-|   HTML          |   High    |
-|   CSS           |   Medium  |
-|   JavaScript    |   Medium  |
-|   ReactJS       |   Low     |
-|   Angular       |   Medium  |
+|  Technology  |    Tools    |
+|  ----------  |  ---------  |
+|  Angular     |  Git        |
+|  Typescript  |  NeoVim     |
+|  CSS/SASS    |             |
+|  HTML        |  NX         |
+|  GraphQL     |  Storybook  |   
+|  JavaScript  |  Jest       |
+|  ReactJS     |  Serverless |
+|  Python      |  Linux      |
 
 
 
