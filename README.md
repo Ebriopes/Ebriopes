@@ -12,7 +12,6 @@ I like repair things, maybe cause I broke a lot 🙃
 
 🌱 I’m currently learning to make art with code (P5.js)
 
----
 
 ## Skills
 
@@ -56,7 +55,9 @@ Here goes a Dev joke to you
 
 <!-- https://github.com/ABSphreak/readme-jokes -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=omni)
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?hideBorder&theme=omni">
+</p>
 
 ---
 
